@@ -1,10 +1,3 @@
 Hi there 👋
 
-- 🔭 I’m currently working on tech elevator pre-work
-- 🌱 I’m currently learning how to use git
-- 👯 I’m looking to collaborate on future projects
-- 🤔 I’m looking for help with command-interface fluidity
-- 💬 Ask me about my dog :)
-- 📫 How to reach me: sethchesky@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am proficient with every instrument in the violin family
+From playing the violin since childhood to instrument repair and violin making, I've always been driven by creativity and craftsmanship. Transitioning to software development, I found a perfect blend of creative expression and logical problem-solving. I thrive on learning new technologies and approaches daily, while also enjoying indoor climbing, gaming, and woodworking.
